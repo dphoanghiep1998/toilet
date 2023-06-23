@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Skibydi Series</string>
+    <string name="app_lovin_sdk_key" translatable="false">lBnu4FPbTxGUi8cqgwNENfRfqINTVk8B9NxC2Japp2DqKPThsIhPCF7zcC6wr9_IN8OLTcG9SR4dT4OJwQPTBf</string>
+    <string name="ads_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <!--    <string name="ads_app_id" translatable="false">ca-app-pub-4636496778732615~2744713999</string>-->
+    <string name="facebook_app_id" translatable="false">736830458222347</string>
+    <string name="facebook_client_token" translatable="false">3c7dea3f404e7cbb3d979b7a88750634</string>
+    <string name="adjust_token_key" translatable="false">5w1qi7sf1tds</string>
+
+    <string name="confirm">Do you want to see ADS to unlock this video?</string>
+    <string name="confirm_close">Are you sure you want to exit the app?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="loading_ads_new">Monster Voice is running, please wait …</string>
+    <string name="lock">LOCK</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="this_action_contains_ads_main">(This action can contain ads)</string>
+    <string name="levels">Levels</string>
+    <string name="next">Next</string>
+    <string name="title_onboard_1">Are you ready to experience fun dance pranks</string>
+    <string name="title_onboard_2">Enjoy with the extensive Skibydi Toilet collection</string>
+    <string name="title_onboard_3">Prank and have a fun time with your friends</string>
+    <string name="require_internet">Turn on internet connection to use this sound !</string>
+
+</resources>

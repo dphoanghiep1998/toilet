@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098109449180",
+    "project_id": "skibydi-series-nekosoft",
+    "storage_bucket": "skibydi-series-nekosoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098109449180:android:687fb08ac7acd98ab81519",
+        "android_client_info": {
+          "package_name": "com.skibidi.toilet.video.series"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098109449180-61gu23t97ub2nn020vtg35cv38qap10j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skibidi.toilet.video.series",
+            "certificate_hash": "c439bb9ccfba67a57f4ba5a108162e139f7a6c97"
+          }
+        },
+        {
+          "client_id": "1098109449180-5sh4th324m40bqn0r6cuelj9thg5ucvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStNaKDmKldhaKK2YiBQRN8BGbRqG8wxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098109449180-5sh4th324m40bqn0r6cuelj9thg5ucvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

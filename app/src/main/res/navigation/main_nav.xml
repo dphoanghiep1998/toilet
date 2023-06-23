@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/fragmentOnBoard">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.neko.hiepdph.toiletseries.main.home.FragmentHome"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/fragmentVideo"
+        android:name="com.neko.hiepdph.toiletseries.main.video.FragmentVideo"
+        android:label="fragment_video"
+        tools:layout="@layout/fragment_video" >
+        <argument
+            android:name="pathVideo"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentOnBoard"
+        android:name="com.neko.hiepdph.toiletseries.main.onboard.FragmentOnBoard"
+        android:label="FragmentOnBoard" >
+        <action
+            android:id="@+id/action_fragmentOnBoard_to_fragmentVideo"
+            app:destination="@id/fragmentVideo" />
+    </fragment>
+</navigation>
